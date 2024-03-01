@@ -1,4 +1,4 @@
-# **Analysis and Protein Informatics**
+# **Protein Science and Informatics**
 ## Chapter 1: Residue Interaction Networks: Understanding Biology Through Graph Structure
 ## Chapter 2: Creating Networks Using Residue Interaction Server
 ## Chapter 3: Network Analaysis Using Python
