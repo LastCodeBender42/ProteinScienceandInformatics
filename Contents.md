@@ -1,5 +1,5 @@
 # **Protein Science and Informatics** 
- <br>
+
 ### Chapter 1: Residue Interaction Networks: Understanding Biology Through Graph Structure
  #### Introduction to Residue Interaction Networks
 
